@@ -1,0 +1,35 @@
+{
+  "name": "quizli",
+  "version": "0.0.1",
+  "description": "Quiz App on the command line.",
+  "keywords": [
+    "quizli",
+    "command-line-quiz",
+    "cli"
+  ],
+  "main": "./bin/quizli.js",
+  "type": "module",
+  "author": "Angelo Yana",
+  "license": "ISC",
+  "bin": {
+    "quizli": "./bin/quizli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NewbieCoder010/quizli"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "cli-select": "^1.1.2",
+    "figlet": "^1.6.0",
+    "gradient-string": "^2.0.2",
+    "he": "^1.2.0",
+    "nanospinner": "^1.1.0",
+    "prompts": "^2.4.2",
+    "quizli": "^1.0.25",
+    "shelljs": "^0.8.5",
+    "terminal-kit": "^3.0.0"
+  }
+}
