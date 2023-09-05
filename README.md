@@ -1,5 +1,7 @@
 # Quizli
 
+[![npm version](https://badge.fury.io/js/quizli.svg)](https://www.npmjs.com/package/quizli)
+
 A simple Quiz App in the command line
 
 - Questions was fetched from [Open Trivia Database](https://opentdb.com)
