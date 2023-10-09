@@ -10,7 +10,7 @@
   "main": "./bin/quizli.js",
   "type": "module",
   "author": "Angelo Yana",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "quizli": "./bin/quizli.js"
   },
